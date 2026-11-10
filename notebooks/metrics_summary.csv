@@ -1,0 +1,5 @@
+Model,R²,MAE,RMSE,MAPE (%),MdAPE (%)
+Gradient Boosting - Baseline,0.6507,71972.0,1010092.0,6.17,3.1
+Gradient Boosting - Deeper,0.6513,66197.0,1009224.0,4.84,2.65
+Gradient Boosting - More Trees,0.6279,71051.0,1042562.0,5.25,2.73
+Gradient Boosting - Faster Learning,0.6512,68866.0,1009493.0,5.13,2.84
